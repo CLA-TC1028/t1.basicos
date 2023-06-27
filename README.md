@@ -4,3 +4,10 @@
 
 - 02 Área Triángulo
 - 03 Promedio Calificaciones
+
+# Navegación - Home
+Para regresar al Home del repositorio, use:
+
+```
+cd /workspaces/basicos.t1
+```
