@@ -15,7 +15,7 @@ sudo -H pip3 install pytest
     pytest assignments/02AreaTriangulo
     ```
 
-- ## 03 Premedio Calificaciones
+- ## 03 Promedio Calificaciones
     ### Run command
     ```
     pytest assignments/03Promedio
