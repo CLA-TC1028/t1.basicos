@@ -9,5 +9,5 @@
 Para regresar al Home del repositorio, use:
 
 ```
-cd /workspaces/basicos.t1
+cd /workspaces/t1.basicos
 ```
